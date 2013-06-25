@@ -17,3 +17,6 @@ mkinstalldirs
 run-tests.php
 config.log
 config.nice
+
+*.sublime-project
+*.sublime-workspace
